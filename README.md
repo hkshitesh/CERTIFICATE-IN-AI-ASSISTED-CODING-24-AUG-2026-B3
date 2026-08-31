@@ -16,9 +16,13 @@ python -c "import sqlite3,os; c=sqlite3.connect('expenseflow.db'); print(c.execu
 ## Important Git Commands
 
   git init
+  
   git add .
+
   git config --global user.name "Your Name"
+  
   git config --global user.email "your.email@example.com"
+  
   git commit -m "final project"
 
 
